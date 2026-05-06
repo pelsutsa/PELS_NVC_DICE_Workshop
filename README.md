@@ -8,15 +8,15 @@ Hardware Components:
   4. Breadboard
   5. Jumper Wires
 
-Wiring: 
-  1. #OLED Display (I2C)
+#Wiring: 
+  1. OLED Display (I2C)
     - VCC: 5V
     - GND: GND
     - SDA: A4
     - SCL: A5
-  2. #Push Button
-    - One leg: D2
-    - Other leg: GND
+  2. Push Button
+     - One leg: D2
+     - Other leg: GND
 
 Software Setup
   1. #Install the Arduino IDE
