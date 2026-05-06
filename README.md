@@ -1,7 +1,5 @@
 # Dice Workshop
-
-Arduino Nano Dice Roller:
-  A simple Arduino project that simulates a rolling die using an OLED display and a push button. When the button is pressed, the display     shows a rolling animation and outputs a random value from 1–6 on 2 dice.
+A simple Arduino project that simulates a rolling die using an OLED display and a push button. When the button is pressed, the display     shows a rolling animation and outputs a random value from 1–6 on 2 dice.
   
 Hardware Requirements:
   1. Arduino Nano
